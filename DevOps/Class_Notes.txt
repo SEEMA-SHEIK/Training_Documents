@@ -821,3 +821,184 @@ Day 3: 4th Dec. 2025
 
 		- Install Visual Studio Code IDE on Local Machine:
 			https://code.visualstudio.com/download
+
+
+	Roles & Responsibilities of DevOps Team :
+	
+	
+		-> Interact with all the Team, understand their pain-point and enable automate
+
+
+	- DevOps LifeCycle using Jenkins :::
+	
+		-> Identify the Source Code Changes 
+		-> Application Build 
+		-> Automate Unit Testing 
+		-> Package Application Images
+		-> Publish Application Images 
+		-> Deploy Application Images to Production Servers 
+
+
+	-> SDLC :
+	
+		Waterfall,AGILE,DevOps,DevSecOps,GitOps,SRE,MLOps,AIOps,LLMOps
+		
+		15-16 VMs
+
+		CI/Cd 		--> delivery
+		CI/CD 		--> Deployment
+		
+		
+
+Next: 
+
+	Fundamentals of Linux :::
+
+
+######################
+Day 4: 5th Dec. 2025
+######################
+		
+	Fundamentals of Linux Operating System :::
+		
+	Based on DevOps Perspective!
+
+		Overview of Linux
+		Linux Architecture
+		Linux Distributions
+		Basic Linux Commands
+		File Permission Management
+		User Creation
+		Shell Scripts
+		SSH and VI Utility			
+	
+	
+	Install Linux ???
+	
+		- AWS Cloud Platform :
+		
+			- Create EC2 Instances (VM) - Linux Distributions.
+			
+Pre-requisites:
+
+	1. Enable AWS Cloud Platform :
+	
+	2. Create AWS EC2 Instances based on Linux Ubuntu Distribution.
+	
+	3. Connect to EC2 Instance :
+	
+	4. Login to EC2 instance 
+	
+	
+	- Access AWS Services using AWS Console :::
+	
+	1. Create an AWS Account
+	
+	2. Login to AWS Console as a root user.(EMail_ID & Password)
+	
+	3. Explore the AWS Dashboard & Services 
+		
+	4. EC2 Service		==> Used to Create Computing Environment
+		
+		- Create EC2 Instance 
+		
+		- Login to EC2 Instance 
+		
+			- Tools :
+			
+				- EC2 Instance Connect Option using Web Browser 
+				
+				- SSH Agents 		--> For Local Windows Users 
+				
+					- Putty
+					
+					- MobaXterm 	--> Install MobaXterm on Local Windows Machine 
+										https://mobaxterm.mobatek.net/download-home-edition.html									
+				
+				- Terminal			--> For Linux / Mac Users
+			
+			
+			- Connection Parameters to Login to Remote Host Server:
+			
+				- Host_Name 		:	Public IP_Address of EC2 Instance
+				
+				- User_Name 		:	Default User Name - ubuntu			# For Ubuntu Distribution
+				
+				- User_Credentials	:	SSH Keys
+				
+				
+						- Authentication Modes :
+						
+							- Password Based Authentication
+							
+							- Token Based Authentication
+							
+							- Key Based Authentication
+							
+								- Public Key 
+								- Private Key 		--> *.pem (file)								
+							
+							- Passwordless Authentication
+						
+							
+		
+	- Login to AWS Console as a root user.(EMail_ID & Password)		
+
+
+		EC2 Instance Connectivity :::
+		
+			- Public IP Address 
+			
+			- Private IP Address 
+			
+			
+		Usage :::
+		
+		Free Usage from Billing Dashboard 
+	
+	
+	
+	Work with the Instances :::
+	
+	Linux :
+
+		Overview of Linux :::
+		
+		Operating System acts as an interface between the user applications & the underlying Hardware.
+		
+
+	Fundamentals of Linux Operating System 
+	
+		- Windows 
+		- Mac 
+		- Linux 
+		
+	Linux Operating System 
+		- Open-Source 
+		- Is Secured 
+		- Linux OS was created based on the Unix Operating System 
+		- Is an interface between the user applications and underlying Hardware.
+		- Linux OS is based on the Command User Interface
+		- Core of Linux OS is called kernel!
+			Components of Linux OS Architecture
+				- Networking 
+				- Storage 
+				- IPC - Inter Process Communication
+				- User Management 
+				- Security Management 
+				- Control Groups 
+				- Namespace 
+				- Process 
+		
+			
+		- As a DevOps Team we can Manage the Linux Machines
+		
+			- Package Management 
+			- File Management 
+			- User Management 
+			- Access Management 
+			- Remote Servers Management 
+			- Process Automation(Shell Scripting)		
+		
+		
+		
